@@ -1,0 +1,12 @@
+D:\LEARNING\LXN\LXN.ML\bin\Debug\net6.0\LXN.ML.deps.json
+D:\LEARNING\LXN\LXN.ML\bin\Debug\net6.0\LXN.ML.dll
+D:\LEARNING\LXN\LXN.ML\bin\Debug\net6.0\LXN.ML.pdb
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.csproj.AssemblyReference.cache
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.AssemblyInfoInputs.cache
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.AssemblyInfo.cs
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.csproj.CoreCompileInputs.cache
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.dll
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\refint\LXN.ML.dll
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\LXN.ML.pdb
+D:\LEARNING\LXN\LXN.ML\obj\Debug\net6.0\ref\LXN.ML.dll

@@ -1,0 +1,17 @@
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.BLL.deps.json
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.BLL.dll
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.BLL.pdb
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.DATAACCESS.dll
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.ML.dll
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.DATAACCESS.pdb
+D:\LEARNING\LXN\LXN.BLL\bin\Debug\net6.0\LXN.ML.pdb
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.csproj.AssemblyReference.cache
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.AssemblyInfoInputs.cache
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.AssemblyInfo.cs
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.csproj.CoreCompileInputs.cache
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.csproj.CopyComplete
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.dll
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\refint\LXN.BLL.dll
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\LXN.BLL.pdb
+D:\LEARNING\LXN\LXN.BLL\obj\Debug\net6.0\ref\LXN.BLL.dll
